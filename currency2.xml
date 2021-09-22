@@ -1,0 +1,77 @@
+<?xml version = "1.0"?>
+<!--ForexTraders.xml-->
+<!DOCTYPE currency SYSTEM "currency.dtd">
+<Traders>
+<Client>
+<name>
+<firstname> James </firstname>
+<lastname> Smith </lastname>
+</name>
+<address>
+<street> 101 South Street</street>
+<city> Halifax </city>
+<email> james@dal.ca </email>
+<phone> 4940001 </phone>
+</address>
+<currency>
+<Cname>  
+US DOLLARS
+</Cname>
+<product> ROUTER </product>
+</currency>
+</Client>
+
+<Client>
+<name>
+<firstname> Tom </firstname>
+<lastname> White </lastname>
+</name>
+<address>
+<street> 202 Victoria Road </street>
+<city> Dartmouth </city>
+<email> tom@dal.ca</email>
+<phone> 4940002 </phone>
+</address>
+<currency>
+<Cname>AUS DOLLARS
+</Cname>
+<product> LAPTOP </product>
+</currency>
+</Client>
+
+<Client>
+<name>
+<firstname> sathish</firstname>
+<lastname>kumar </lastname>
+</name>
+<address>
+<street> 5th main road </street>
+<city> Banglore </city>
+<email> sathish@gmail.com</email>
+<phone> 5675679457</phone>
+</address>
+<currency>
+<Cname>Euro
+</Cname>
+<product> PRINTER </product>
+</currency>
+</Client>
+
+<Client>
+<name>
+<firstname> Abi</firstname>
+<lastname> Abinaya </lastname>
+</name>
+<address>
+<street> SG </street>
+<city>  Banglore</city>
+<email> Abi@gmail.com</email>
+<phone> 78987643435</phone>
+</address>
+<currency>
+<Cname>singapure DOLLARS
+</Cname>
+<product> ROUTER </product>
+</currency>
+</Client>
+</Traders>

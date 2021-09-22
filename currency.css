@@ -1,0 +1,14 @@
+/*--currency.css- a style sheet for the students.xml document */
+Client{display: block; margin-top: 15px; color: blue;}
+name{display: block; margin-left:40px;margin-top: 10pt;color:red}
+firstname{font-size: 28pt;}
+lastname{font-size: 28pt;}
+address{display: block; margin-left:40px;color:green}
+street{display: block;font-size: 18pt;}
+city{display: block;font-size: 18pt;}
+email{display: block;font-size: 18pt;color:blue}
+phone{display: block;font-size: 18pt;}
+Currency{display: block; margin-left:10px;color:rgb(49, 228, 49)}
+Cname{display: block;font-size: 18pt; color: blue;padding: 25px;}
+product{display: block; margin-left:40px;color:rgb(124, 0, 128)}
+paragraph{display: block; margin-left:40px;color:rgb(165, 175, 22)}
